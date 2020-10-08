@@ -1,5 +1,5 @@
 import React from "react";
-// change svg from fontasowe
+// change svg from fontasowe.com
 function Case() {
   const caseStudies = [
     {
