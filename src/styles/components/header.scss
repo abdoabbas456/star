@@ -15,6 +15,9 @@
     align-items: center;
     justify-content: space-between;
     margin: auto;
+    @include media("<=phone") {
+     width: 100;
+    }
     .logo {
       font-family: myriad-pro, sans-serif;
       color: $white;
