@@ -3,7 +3,7 @@
   
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/abdoabbas456/one-gh.git",
+  
 
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
