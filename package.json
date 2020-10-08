@@ -1,10 +1,8 @@
 {
   "name": "one",
-  
   "version": "0.1.0",
+  "homepage": "http://abdoabbas456.github.io/star",
   "private": true,
-  
-
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -22,8 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
-
+    
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,6 +34,7 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
+
       "last 1 safari version"
     ]
   },
