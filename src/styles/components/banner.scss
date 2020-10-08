@@ -17,6 +17,7 @@
     
     @include media("<=phone") {
     flex-direction: column;
+    width: 100%;
     }
 
     .baneer-headline {
