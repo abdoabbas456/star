@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="50" height="50" transform="translate(34 1185)" fill="rgba(255,255,255,0)" stroke="#e9204f" stroke-linecap="round" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="card3" transform="translate(-34 -1185)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="sunrise" transform="translate(36.083 1189.167)">
+      <path id="Path_4" data-name="Path 4" d="M42.708,51.042a10.417,10.417,0,1,0-20.833,0" transform="translate(-9.375 -17.708)" fill="rgba(255,255,255,0)" stroke="#e9204f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_27" data-name="Line 27" y2="14.583" transform="translate(22.917)" fill="none" stroke="#e9204f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_28" data-name="Line 28" x2="2.958" y2="2.958" transform="translate(6.708 17.125)" fill="none" stroke="#e9204f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_29" data-name="Line 29" x2="4.167" transform="translate(0 33.333)" fill="none" stroke="#e9204f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_30" data-name="Line 30" x2="4.167" transform="translate(41.667 33.333)" fill="none" stroke="#e9204f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_31" data-name="Line 31" y1="2.958" x2="2.958" transform="translate(36.167 17.125)" fill="none" stroke="#e9204f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_32" data-name="Line 32" x1="45.833" transform="translate(0 41.667)" fill="none" stroke="#e9204f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_5" data-name="Path 5" d="M25,14.583,33.333,6.25l8.333,8.333" transform="translate(-10.417 -6.25)" fill="rgba(255,255,255,0)" stroke="#e9204f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+@import "./varibles.scss";
+@import "./breakpoints.scss";
+@import "./components/header.scss";
+@import "./components/banner.scss";
+@import "./components/case.scss";
+@import url("https://use.typekit.net/rzj8jml.css");
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  visibility: hidden;
+}
+
+html,
+body,
+#root {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background: $black;
+
+}
